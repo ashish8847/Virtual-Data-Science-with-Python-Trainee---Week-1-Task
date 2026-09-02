@@ -32,7 +32,7 @@ This project demonstrates data acquisition, cleaning, and preprocessing on a rea
 
 ```bash
 pip install pandas numpy matplotlib seaborn
-python clean_data.py
+python clean_data.ipynb
 ```
 
 Outputs: `AB_NYC_2019_cleaned.csv` plus four PNG chart files.
