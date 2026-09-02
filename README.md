@@ -8,7 +8,7 @@ This project demonstrates data acquisition, cleaning, and preprocessing on a rea
 
 ## Files
 
-- `clean_data.py` — full cleaning and EDA script (pandas, numpy, matplotlib, seaborn)
+- `clean_data.ipynb` — full cleaning and EDA script (pandas, numpy, matplotlib, seaborn)
 - `AB_NYC_2019.csv` — raw input dataset
 - `AB_NYC_2019_cleaned.csv` — cleaned output dataset (48,870 rows)
 - `Week1_Data_Cleaning_Report.docx` — full written report with methodology, code, and visualizations
